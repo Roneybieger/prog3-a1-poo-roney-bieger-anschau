@@ -28,4 +28,4 @@ O objetivo é construir um sistema de autenticação de usuários utilizando ape
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seuusuario/prog3-a1-poo-seunome.git
+git clone https://github.com/Roneybieger/prog3-a1-poo-roney-bieger-anschau
