@@ -1,7 +1,8 @@
 # Sistema de Autenticação e Registro de Usuários com PHP - Prigramação III
 
 **Nome:** [Roney Bieger Anschau]  
-**Turma:** [Programação III]  
+**Turma:** [ 5a Fase - Ciência da Computação - UNOESC]  
+**Professor:** [Leandro Otavio Cordova Vieira]
 
 ## 📋 Descrição
 
