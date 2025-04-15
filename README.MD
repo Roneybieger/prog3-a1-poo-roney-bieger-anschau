@@ -1,4 +1,4 @@
-# Sistema de Autenticação POO - PHP Puro
+# Sistema de Autenticação e Registro de Usuários com PHP - Prigramação III
 
 **Nome:** [Roney Bieger Anschau]  
 **Turma:** [Programação III]  
