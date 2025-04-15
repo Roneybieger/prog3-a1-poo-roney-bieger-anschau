@@ -29,3 +29,14 @@ O objetivo é construir um sistema de autenticação de usuários utilizando ape
 
 ```bash
 git clone https://github.com/Roneybieger/prog3-a1-poo-roney-bieger-anschau
+
+Inicie o servidor embutido com PHP:
+
+cd prog3-a1-poo-roney-bieger-anschau
+php -S localhost:8000
+
+Acesse pelo navegador:
+
+http://localhost:8000
+
+
