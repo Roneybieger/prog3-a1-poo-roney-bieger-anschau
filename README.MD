@@ -4,12 +4,12 @@
 **Turma:** [ 5a Fase - Ciência da Computação - UNOESC]  
 **Professor:** [Leandro Otavio Cordova Vieira]
 
-## 📋 Descrição
+##  Descrição
 
 Projeto acadêmico para a disciplina de Programação III.  
 O objetivo é construir um sistema de autenticação de usuários utilizando apenas PHP puro com orientação a objetos.
 
-## 🚀 Funcionalidades
+##  Funcionalidades
 
 - Cadastro de usuário (nome, e-mail, senha)
 - Login com verificação de senha (via `password_verify`)
@@ -18,19 +18,19 @@ O objetivo é construir um sistema de autenticação de usuários utilizando ape
 - Logout com destruição da sessão
 - Estrutura organizada por classes e arquivos
 
-## 🧠 Classes
+##  Classes
 
 - `Usuario`: representa o usuário e encapsula dados como nome, e-mail e senha.
 - `Sessao`: gerencia a sessão via métodos estáticos.
 - `Autenticador`: simula o banco de dados com array e gerencia autenticação.
-## ✅ Diferenciais Implementados
+##  Diferenciais Implementados
 - password_hash() e password_verify() usados para proteger as senhas
 - Sessão iniciada e protegida nas rotas restritas
 - Cookies funcionais com checkbox "Lembrar e-mail"
 - Código limpo, comentado e modularizado com OOP
 
 
-## 🛠️ Como Executar Localmente
+##  Como Executar Localmente
 
 1. Clone o repositório:
 
