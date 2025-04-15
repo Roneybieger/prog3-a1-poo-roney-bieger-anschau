@@ -4,7 +4,7 @@
 **Turma:** [ 5a Fase - Ciência da Computação - UNOESC]  
 **Professor:** [Leandro Otavio Cordova Vieira]
 
-##  Descrição
+## :exclamation: Descrição
 
 Projeto acadêmico para a disciplina de Programação III.  
 O objetivo é construir um sistema de autenticação de usuários utilizando apenas PHP puro com orientação a objetos.
