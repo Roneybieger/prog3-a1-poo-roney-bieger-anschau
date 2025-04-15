@@ -23,6 +23,12 @@ O objetivo é construir um sistema de autenticação de usuários utilizando ape
 - `Usuario`: representa o usuário e encapsula dados como nome, e-mail e senha.
 - `Sessao`: gerencia a sessão via métodos estáticos.
 - `Autenticador`: simula o banco de dados com array e gerencia autenticação.
+## ✅ Diferenciais Implementados
+- password_hash() e password_verify() usados para proteger as senhas
+- Sessão iniciada e protegida nas rotas restritas
+- Cookies funcionais com checkbox "Lembrar e-mail"
+- Código limpo, comentado e modularizado com OOP
+
 
 ## 🛠️ Como Executar Localmente
 
