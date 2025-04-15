@@ -18,7 +18,7 @@ O objetivo é construir um sistema de autenticação de usuários utilizando ape
 - Logout com destruição da sessão
 - Estrutura organizada por classes e arquivos
 
-##  Classes
+## :page_facing_up: Classes
 
 - `Usuario`: representa o usuário e encapsula dados como nome, e-mail e senha.
 - `Sessao`: gerencia a sessão via métodos estáticos.
