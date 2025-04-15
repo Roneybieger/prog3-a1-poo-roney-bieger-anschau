@@ -9,7 +9,7 @@
 Projeto acadêmico para a disciplina de Programação III.  
 O objetivo é construir um sistema de autenticação de usuários utilizando apenas PHP puro com orientação a objetos.
 
-##  Funcionalidades
+## :pushpin: Funcionalidades
 
 - Cadastro de usuário (nome, e-mail, senha)
 - Login com verificação de senha (via `password_verify`)
